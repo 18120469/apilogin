@@ -51,8 +51,22 @@ namespace WebApplication1.Controllers
             var preparedStatement = session.Prepare("SELECT * FROM customer WHERE username = ?");
             var boundStatement = preparedStatement.Bind(username);
             var resultSet = session.Execute(boundStatement);
-            var row = resultSet.FirstOrDefault();
-            return Ok(row);
+
+            var data = new List<Dictionary<string, object>>();
+
+            foreach (var row in resultSet)
+            {
+                var rowData = new Dictionary<string, object>();
+
+                foreach (var column in resultSet.Columns)
+                {
+                    rowData[column.Name] = row.GetValue<object>(column.Name);
+                }
+
+                data.Add(rowData);
+            }
+
+            return Ok(data);
         }
     }
 }

@@ -6340,11 +6340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\apilogin\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\apilogin\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\PHONG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\apilogin\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhqS3s/e5TYAPI7SSOmS7X7JMeuWnHAyL2l4NFixa31liV3apCQ00NvGuAecnKldY0u6sb9Ed/eQTRs90FWSeg==",
+  "dgSpecHash": "Ph8G3NgpnkjTY4KPsgLObxGiUpOVBaiyHQBG/y7/HPkErRG/g8ylZUn7U3sey3krqSZNzBgvXjjLoaH3S2A5ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\PHONG\\Desktop\\mdm_th\\WebApplication1\\apilogin\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PHONG\\.nuget\\packages\\cassandracsharpdriver\\3.19.2\\cassandracsharpdriver.3.19.2.nupkg.sha512",
     "C:\\Users\\PHONG\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
